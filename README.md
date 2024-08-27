@@ -5,10 +5,10 @@ This project involves the creation of comprehensive Excel dashboards that provid
 
 ## KPI Visualization
 
-- **Total Loan Applications**
-- **Total Funded Amount**
-- **Average Interest Rate**
-- **Average Debt-to-Income (DTI) Ratio**
+- Total Loan Applications
+- Total Funded Amount
+- Average Interest Rate
+- Average Debt-to-Income (DTI) Ratio
  
 
 ### Dynamic Analysis:
