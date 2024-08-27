@@ -3,11 +3,13 @@
 ## Overview
 This project involves the creation of comprehensive Excel dashboards that provide a detailed analysis of loan data. The dashboards are designed to help users track key performance indicators (KPIs) related to loan applications, funding amounts, interest rates, and debt-to-income (DTI) ratios. The dashboards are interactive, allowing for dynamic analysis and filtering based on various criteria such as loan grade and purpose.
 
-### KPI Visualization:
-**Total Loan Applications**
-**Total Funded Amount**
-**Average Interest Rate**
-**Average Debt-to-Income (DTI) Ratio** 
+## KPI Visualization
+
+- **Total Loan Applications**
+- **Total Funded Amount**
+- **Average Interest Rate**
+- **Average Debt-to-Income (DTI) Ratio**
+ 
 
 ### Dynamic Analysis:
 Enabled filtering by loan grade and purpose using pivot tables and slicers.
